@@ -1,7 +1,7 @@
 ## 김동건 · KIM DONGGUN
 
-**주도적 트러블슈터.** 영진전문대학교 AI 소프트웨어 학과 2학년. 백엔드 서버 엔지니어 목표, 대학원 진학 준비 중. VRChat 아바타 기믹 제작 및 무료 배포.
-<br>*Backend developer in training, preparing for graduate school. VRChat gimmick maker.*
+영진전문대학교 AI 소프트웨어 학과 2학년. 백엔드 서버 엔지니어 목표. VRChat 아바타 기믹 제작 및 무료 배포.
+<br>*Backend developer in training. VRChat gimmick maker.*
 
 **Portfolio** — <https://pyrite9.github.io/>
 
