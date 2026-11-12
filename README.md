@@ -22,10 +22,10 @@
 
 | Gimmick | 설명 / Description | Links |
 |---|---|---|
-| [**Wheelchair**](https://github.com/Pyrite9/vrchat-wheelchair) | 모든 humanoid avatar용 범용 휠체어 기믹, Desktop/VR/FBT 지원<br>*Wheelchair for any humanoid avatar* | [BOOTH](https://pyrite9.booth.pm/items/9004771) |
+| [**Sleeve Roll**](https://github.com/Pyrite9/vrchat-sleeve-roll) | 소매 걷기. 빌드할 때 의상 mesh에서 걷힌 모양을 계산, shape key·mesh 데이터 미포함<br>*Sleeve rolling computed from the garment mesh at build time* | [BOOTH](https://pyrite9.booth.pm/items/9111596) |
 | [**Pulse Watch**](https://github.com/Pyrite9/vrchat-pulse-watch) | 손목을 눈 쪽으로 돌리면 홀로그램이 펼쳐지는 손목시계<br>*Pop-up holographic wristwatch* | [BOOTH](https://pyrite9.booth.pm/items/9072249) · [Video](https://youtu.be/8LORLEosO8A) |
 | [**Drink Can**](https://github.com/Pyrite9/vrchat-drink-can) | 4가지 크기 preset의 음료 캔<br>*Drink can with four size presets* | [BOOTH](https://pyrite9.booth.pm/items/9038058) · [Video](https://youtu.be/X1OVrH2HJMI) |
-| [**Sleeve Roll**](https://github.com/Pyrite9/vrchat-sleeve-roll) | 소매 걷기. 빌드할 때 의상 mesh에서 걷힌 모양을 계산, shape key·mesh 데이터 미포함<br>*Sleeve rolling computed from the garment mesh at build time* | [BOOTH](https://pyrite9.booth.pm/items/9111596) |
+| [**Wheelchair**](https://github.com/Pyrite9/vrchat-wheelchair) | 모든 humanoid avatar용 범용 휠체어 기믹, Desktop/VR/FBT 지원<br>*Wheelchair for any humanoid avatar* | [BOOTH](https://pyrite9.booth.pm/items/9004771) |
 
 ### Tools / 그 밖의 도구
 
